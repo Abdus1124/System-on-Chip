@@ -1,0 +1,4 @@
+System on Chip coursework.
+FPGA design flow using the Vivado design tool: will formally introduce the FPGA design flow using the Vivado tool where students will step through the complete Xilinx design flow from entry to download. 
+Embedded system design on Zynq SoC using the Vivado design tool: will include developing embedded systems on the Xilinx Zynq All Programmable SoC family using the on-chip ARM Cortex-A9 processor system and a set of soft peripherals within the Vivado design environment. 
+High-level synthesis flow on Zynq SoC using the Vivado HLS design tool: will provide an understanding of high-level synthesis design methodologies necessary to develop custom peripherals using C/C++ programming languages within the Vivado HLS tool; these peripherals will then be added to a processor system on the Zynq SoC.
